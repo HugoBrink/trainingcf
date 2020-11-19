@@ -11,4 +11,4 @@ define view SalesOrderItemByUserView as
         salesOrder.status as ![salesOrderStatus],
         salesOrder.user.ID as ![userID],
         salesOrder.user.name as ![userName]
-    }
+    };
