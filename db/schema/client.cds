@@ -1,5 +1,5 @@
 using {Base} from './common';
-using {} from './salesorder';
+using from './salesorder';
 
 namespace training.client;
 
