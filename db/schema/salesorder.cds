@@ -16,4 +16,5 @@ entity TbISalesOrderItem : Base {
     status: STATUS_TYPE;
     salesOrder: Association to TbISalesOrder;
     product: Association to TbIProducts;
+    quantity: Integer;
 }
