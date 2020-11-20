@@ -4,4 +4,6 @@ using from './schema/salesorder';
 using from './schema/user';
 using from './views/SalesOrderItemByUserView';
 using from './views/ProductsGetByClient';
+using from './views/AvailableProductsView';
+using from './views/TotalSalesByClient';
 using from './schema/user';
